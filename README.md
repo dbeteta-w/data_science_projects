@@ -1,4 +1,4 @@
-# UAM Master's Degree Projects
+# Master's Degree Projects
 
 ![Contributors](https://img.shields.io/github/contributors/dbeteta-w/data_science_projects)
 ![Stars](https://img.shields.io/github/stars/dbeteta-w/data_science_projects) 
@@ -14,7 +14,7 @@ Also, as most of them are developed in a Jupyter Notebook, you can have
 a quick view of the technologies used checking out the following table:
 
 ### Data Science Projects
-| Nº  |  Name of the subject  |                                                                                         Project                                                                                         |                  Technology                   |                                                                                      Authors                                                                                       |
-|:---:|:---------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Theory of Information | [Calculation of mutual information between neural time series](https://github.com/dbeteta-w/linguistic_data_treatment/blob/main/processes/validators/has_a_properly_amount_of_words.py) |                    Python                     | [Ignacio Córdova Pou](https://www.linkedin.com/in/ignacio-c%C3%B3rdova-pou-797b0522b/) & [Daniel Beteta Francisco](https://www.linkedin.com/in/daniel-beteta-francisco-a2b254149/) |
+| Nº  |  Name of the subject  |                                                                                                         Project                                                                                                         | Technology |                                                                                      Authors                                                                                       |
+|:---:|:---------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | Theory of Information | [Calculation of mutual information between neural time series](https://github.com/dbeteta-w/masters_degree_projects/blob/main/Theory_of_Information/Calculation_of_mutual_information_between_neural_time_series.ipynb) |   Python   | [Ignacio Córdova Pou](https://www.linkedin.com/in/ignacio-c%C3%B3rdova-pou-797b0522b/) & [Daniel Beteta Francisco](https://www.linkedin.com/in/daniel-beteta-francisco-a2b254149/) |
 
